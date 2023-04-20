@@ -1,4 +1,8 @@
-# Steps for building Linux image for BeagleBone Black using Yocto Project 
+# Yocto IOT image for BBB
+
+## Requirements
+
+## Steps for building Linux image for BeagleBone Black using Yocto Project
 
 sudo apt-get install gawk wget git-core diffstat unzip texinfo gcc-multilib build-essential chrpath socat cpio python3 python3-pip python3-pexpect xz-utils debianutils iputils-ping libsdl1.2-dev xterm bc build-essential chrpath diffstat gawk git libncurses5-dev pkg-config socat subversion texi2html texinfo u-boot-tools lz4
 
